@@ -58,7 +58,7 @@ If you encounter a "directory not found" error:
     - `r-x`: Others (everyone else) also have read (`r`) and execute (`x`) permissions, but no write (`-`) permission.
 
 
-    ```755 // This number represents the permissions of a directory in a Unix-like file system. It means:
+    755 // This number represents the permissions of a directory in a Unix-like file system. It means:
         // - The owner has full permissions: read (4), write (2), and execute (1), totaling 7.
         // - The group has read (4) and execute (1) permissions, totaling 5.
         // - Others also have read (4) and execute (1) permissions, totaling 5.```
